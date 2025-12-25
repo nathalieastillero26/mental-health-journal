@@ -9,6 +9,7 @@
 ## Deployment
 
 Your project is live at:
+https://mental-health-journal-three.vercel.app/
 
 
 
